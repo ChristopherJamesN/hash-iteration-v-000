@@ -1,6 +1,6 @@
 # birthday_kids = {
-#   "Timmy" => 9, 
-#   "Sarah" => 6, 
+#   "Timmy" => 9,
+#   "Sarah" => 6,
 #   "Amanda" => 27
 # }
 
@@ -12,8 +12,6 @@ passengers.each do |suite, name|
     winner = name
   end
 end
- 
+
 winner  
 end
-
-
